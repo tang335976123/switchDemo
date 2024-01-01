@@ -1,8 +1,5 @@
 {
   "switch": 0,
-  "index": 0,
-  "downloadUrl": [
-        "https://m.bsetcoin.com",
-        "https://www.bsetcoin.com"
-  ]
+  "mask":0,
+  "message": "请续费",
 }
