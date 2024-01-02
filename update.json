@@ -1,5 +1,5 @@
 {
-  "switch": 0,
-  "mask":0,
+  "iosswitch": 0,
+  "Androidswitch":0,
   "message": "请续费...",
 }
