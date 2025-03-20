@@ -1,5 +1,25 @@
 {
-  "iosswitch": "1",
-  "Androidswitch":"0",
-  "message": "请续费...",
+  "code": 200,
+  "message": "请求成功",
+  "data": {
+    "login": "wkf9924",
+    "id": 260419,
+    "node_id": "MDQ6VXNlcjI2MDQxOQ==",
+    "avatar_url": "https://avatars.githubusercontent.com/u/260419?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wkf9924",
+    "html_url": "https://github.com/wkf9924",
+    "followers_url": "https://api.github.com/users/wkf9924/followers",
+    "following_url": "https://api.github.com/users/wkf9924/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wkf9924/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wkf9924/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wkf9924/subscriptions",
+    "organizations_url": "https://api.github.com/users/wkf9924/orgs",
+    "repos_url": "https://api.github.com/users/wkf9924/repos",
+    "events_url": "https://api.github.com/users/wkf9924/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wkf9924/received_events",
+    "type": "用户名",
+    "user_view_type": "public",
+    "site_admin": false
+  }
 }
