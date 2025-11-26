@@ -4,15 +4,7 @@
   "data": [
     {
       "login": "wkf9924",
-      "id": 260419,
-      "avatar_url": "https://avatars.githubusercontent.com/u/260419?v=4",
-      "url": "https://github.com/wkf9924"
-    },
-    {
-      "login": "exampleuser",
-      "id": 123456,
-      "avatar_url": "https://avatars.githubusercontent.com/u/123456?v=4",
-      "url": "https://github.com/exampleuser"
+      "isOpen": 1
     }
   ]
 }
